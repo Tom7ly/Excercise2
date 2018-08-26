@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/Room.c
+Room.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/Room.h
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+sortedList.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/sortedList.h
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/Room.h
+stdio.h
+-
+stdbool.h
+-
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/SystemRoom.c
+SystemRoom.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/SystemRoom.h
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/SystemRoom.h
+stdio.h
+-
+stdbool.h
+-
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date.c
+date.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date.h
+stdlib.h
+-
+assert.h
+-
+date_time_utils.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date_time_utils.h
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date.h
+stdio.h
+-
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date_time_utils.c
+date_time_utils.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date_time_utils.h
+assert.h
+-
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date_time_utils.h
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/main.c
+stdio.h
+-
+date.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date.h
+Room.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/Room.h
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/node.h
+stdbool.h
+-
+stdio.h
+-
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/sortedList.h
+node.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/node.h
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/time.c
+time.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/time.h
+stdlib.h
+-
+assert.h
+-
+date_time_utils.h
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/date_time_utils.h
+
+C:/Technion/SEMESTER 2 - MATAM            - 234122/Ex2/time.h
+stdio.h
+-
+
