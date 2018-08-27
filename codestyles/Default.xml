@@ -24,4 +24,9 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
+  <codeStyleSettings language="ObjectiveC">
+    <indentOptions>
+      <option name="TAB_SIZE" value="10" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
