@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="FONT_SCALE" value="3.0" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
 </application>
